@@ -188,4 +188,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 LOGIN_REDIRECT_URL = '/'
 
-CSRF_TRUSTED_ORIGINS = ['https://test-docker-postgre812385-b1.azurewebsites.net']
+CSRF_TRUSTED_ORIGINS = ['https://test-djangogirls417-docker.azurewebsites.net']
